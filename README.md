@@ -1,0 +1,29 @@
+# bd-syscollege
+
+Tablas creadas (12):
+
+USUARIO
+MENU
+PERFIL
+MENU_PERFIL
+TIPO_DOCUMENTO
+SEXO
+GRADO
+AULA
+PROFESOR
+PADRE
+ALUMNO
+MATRICULA
+
+Tablas por crear (9):
+
+CURSO (Israel)
+CURSO_GRADO (Israel)
+CURSO_PROFESOR (Israel)
+DEPARTAMENTO (Leonard)
+PROVINCIA (Leonard)
+DISTRITO (Leonard)
+TURNO (Leonard)
+ALUMNO_TURNO (Leonard)
+ANUNCIO (Israel)
+ANUNCIO_GRADO (Israel)
