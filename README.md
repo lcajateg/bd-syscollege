@@ -15,7 +15,7 @@ PADRE
 ALUMNO
 MATRICULA
 
-Tablas por crear (9):
+Tablas por crear (10):
 
 CURSO (Israel)
 CURSO_GRADO (Israel)
